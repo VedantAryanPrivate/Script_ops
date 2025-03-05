@@ -1,0 +1,30 @@
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.0/images/Figure01.png
+:pencil2: Updated /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.0/Introduction.mmd with new image placeholders!
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.1/images/Figure02.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.1/images/Figure03.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.1/images/Figure04.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.1/images/Figure05.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.1/images/Figure06.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.1/images/Figure07.png
+:pencil2: Updated /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.1/10.1 Sound is Produced by a Vibrating Body.mmd with new image placeholders!
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.11/images/Figure08.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.11/images/Figure09.png
+:pencil2: Updated /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.11/Extended Learning - Activities and Projects.mmd with new image placeholders!
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.12/images/Figure10.png
+:pencil2: Updated /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.12/Did You Know?.mmd with new image placeholders!
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.2/images/Figure11.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.2/images/Figure12.png
+:pencil2: Updated /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.2/10.2 Sound Produced by Humans.mmd with new image placeholders!
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.3/images/Figure13.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.3/images/Figure14.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.3/images/Figure15.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.3/images/Figure16.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.3/images/Figure17.png
+:pencil2: Updated /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.3/10.3 Sound Needs a Medium for Propagation.mmd with new image placeholders!
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.4/images/Figure18.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.4/images/Figure19.png
+:pencil2: Updated /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.4/10.4 We Hear Sound through Our Ears.mmd with new image placeholders!
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.5/images/Figure20.png
+:white_tick: Downloaded: /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.5/images/Figure21.png
+:pencil2: Updated /Users/vedantaryan/Desktop/NewSt copy/Output/SOUND/10.5/10.5 Amplitude, Time Period and Frequency of a Vibration.mmd with new image placeholders!
+:tada: Image extraction, downloading, and replacement completed!
