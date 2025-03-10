@@ -13,7 +13,7 @@ output_dir = "/Users/vedantaryan/Desktop/MERGED_8_BIO_THEORY_MMD more/output2"
 os.makedirs(output_dir, exist_ok=True)
 
 # Regular expression to find image URLs inside the ![]()
-image_url_pattern = re.compile(r'(\d{3})_!?\[\]\((https?://[^\)]+)\)')
+image_url_pattern = re.compile(r'(\d{2})_!?\[\]\((https?://[^\)]+)\)')
 
 def download_image(image_url, save_path):
     """Download image from the URL and save it as PNG, sanitizing the URL."""
